@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="042f8450-cdc8-471e-bcc6-122704733f8f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_291.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_291.jdk/Contents/Home/src.zip!/java/util/Map.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_291.jdk/Contents/Home/src.zip!/java/util/concurrent/Callable.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Downloads/dev-tools/apache-maven-3.8.1/resp/cglib/cglib/3.3.0/cglib-3.3.0-sources.jar!/net/sf/cglib/proxy/Enhancer.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Downloads/dev-tools/apache-maven-3.8.1/resp/cglib/cglib/3.3.0/cglib-3.3.0-sources.jar!/net/sf/cglib/proxy/InterfaceMaker.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Downloads/dev-tools/apache-maven-3.8.1/resp/io/netty/netty-transport/4.1.77.Final/netty-transport-4.1.77.Final.jar!/io/netty/channel/ChannelInitializer.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Downloads/dev-tools/apache-maven-3.8.1/resp/org/apache/dubbo/dubbo/2.7.5/dubbo-2.7.5-sources.jar!/org/apache/dubbo/rpc/service/GenericService.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Downloads/dev-tools/apache-maven-3.8.1/resp/org/ow2/asm/asm/7.1/asm-7.1.jar!/org/objectweb/asm/Type.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Downloads/dev-tools/apache-maven-3.8.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2YNX2vZG2PEVfuimShQQEix5lj7" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/root1/Desktop/project/api-gateway",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "spring.configuration.checksum": "1d09875f95bc061844e3b968e1b55e67",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager">
+    <configuration name="ApiTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.api.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.api.gateway" />
+      <option name="MAIN_CLASS_NAME" value="com.api.gateway.ApiTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApiTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="042f8450-cdc8-471e-bcc6-122704733f8f" name="Changes" comment="" />
+      <created>1700366807200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700366807200</updated>
+      <workItem from="1700366808265" duration="12407000" />
+      <workItem from="1700402668952" duration="108000" />
+      <workItem from="1701572155891" duration="3859000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
